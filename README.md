@@ -1,16 +1,23 @@
-## Hi there 👋
+# Rohan Buch
 
-<!--
-**rohan-buch/rohan-buch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical Engineering (Co-op) — embedded systems, PCB design, and ML for hardware.**
+Avionics hardware intern @ RIIS LLC. Incoming BEng EE Co-op @ Concordia.
+US/Canada dual citizen.
 
-Here are some ideas to get you started:
+I build the full stack of a hardware product: schematic → PCB → bring-up → firmware → the ML that runs on top.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Hardware:** KiCad, Altium, LTspice · multi-layer + differential routing · board bring-up · SMD rework
+- 🧠 **Embedded:** bare-metal C/C++ on STM32 & ESP32 · I2C/SPI/UART/CAN · embedded Linux (Buildroot, device tree) · ROS2
+- 🛩️ **Systems:** PX4 / MAVLink avionics · QGroundControl · Wireshark · HIL test with pytest
+- 📈 **ML:** PyTorch · physics-informed & sequence models for vehicle dynamics
+
+### Selected work
+| Project | What it shows | Stack |
+|---|---|---|
+| [px4-drone-gcs](#) | End-to-end UAS ground-control integration & debugging | PX4, MAVLink, networking |
+| [stm32-flight-controller](#) | Mixed-signal PCB + bare-metal sensor drivers | KiCad, STM32, C, I2C |
+| [kicad-usbc-hub](#) | 4-layer PCB, 90Ω differential routing, PD | KiCad, USB2514B, FUSB302B |
+| [car-following-lstm](#) | Sequence model for AV trajectory prediction on NGSIM | Python, PyTorch/TF |
+| [fpga-uart-rx](#) | RTL design + self-checking testbench | SystemVerilog |
+
+📫 [LinkedIn](https://www.linkedin.com/in/rohanbuch/) · 📧 buchrohan06@gmail.com
