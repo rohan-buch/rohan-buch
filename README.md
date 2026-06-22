@@ -1,7 +1,7 @@
 # Rohan Buch
 
-**Electrical Engineering (Co-op) — embedded systems, PCB design, and ML for hardware.**
-Avionics hardware intern @ RIIS LLC. Incoming BEng EE Co-op @ Concordia.
+**Electrical Engineering (Co-op): embedded systems, PCB design, and ML for hardware.**
+Avionics hardware intern @ RIIS LLC. & BEng EE Co-op @ Concordia.
 US/Canada dual citizen.
 
 I build the full stack of a hardware product: schematic → PCB → bring-up → firmware → the ML that runs on top.
