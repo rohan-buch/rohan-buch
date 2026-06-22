@@ -14,9 +14,7 @@ I build the full stack of a hardware product: schematic → PCB → bring-up →
 ### Selected work
 | Project | What it shows | Stack |
 |---|---|---|
-| [px4-drone-gcs](#) | End-to-end UAS ground-control integration & debugging | PX4, MAVLink, networking |
 | [stm32-flight-controller](#) | Mixed-signal PCB + bare-metal sensor drivers | KiCad, STM32, C, I2C |
-| [kicad-usbc-hub](#) | 4-layer PCB, 90Ω differential routing, PD | KiCad, USB2514B, FUSB302B |
 | [car-following-lstm](#) | Sequence model for AV trajectory prediction on NGSIM | Python, PyTorch/TF |
 | [fpga-uart-rx](#) | RTL design + self-checking testbench | SystemVerilog |
 
